@@ -1,0 +1,11 @@
+*.log       # Ignore all .log files
+*.tmp       # Ignore all .tmp files
+*.exe       # Ignore all .exe files
+/node_modules   # Ignore the node_modules/ directory
+/dist           # Ignore the dist/ directory
+/config/secret.json  # Ignore a specific file
+.DS_Store    # macOS Finder metadata
+Thumbs.db    # Windows Explorer thumbnail cache
+.vscode/     # Visual Studio Code settings
+*.swp        # vim swap files
+.idea/       # IntelliJ IDEA project files
